@@ -9,4 +9,5 @@
   <a href="" class="py-5 px-2 border-b border-black">კონტაქტი</a>
   <a href="" class="py-5 px-2">შესვლა</a>
 </div>
+
 </template>
