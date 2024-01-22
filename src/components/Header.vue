@@ -7,7 +7,7 @@
   <a href="" class="py-5 px-2 border-b border-black">გალერეა</a>
   <a href="" class="py-5 px-2 border-b border-black">მხატვრის შესახებ</a>
   <a href="" class="py-5 px-2 border-b border-black">კონტაქტი</a>
-  <a href="" class="py-5 px-2">შესვლა</a>
+  <a href="" class="py-5 px-2 text-blue-500">შესვლა</a>
 </div>
 
 </template>
